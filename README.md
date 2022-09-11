@@ -13,12 +13,13 @@ Upon signing up, You will be given a private key and public key. This is private
 ### Marvel Database Resources
 You can access six resource types using the API:
 
-    1.Comics: individual print and digital comic issues, collections and graphic novels. For example: Amazing Fantasy #15.
-    2.Comic series: sequentially numbered (well, mostly sequentially numbered) groups comics with the same title. For example, Uncanny X-Men.
-    3.Comic stories: indivisible, reusable components of comics. For example, the cover from Amazing Fantasy #15 or the origin of Spider-Man story from that comic.
-    4.Comic events and crossovers: big, universe-altering storylines. For example, Infinity
-    5.Creators: women, men and organizations who create comics. For example, Jack Kirby.
-    6.Characters: the women, men, organizations, alien species, deities, animals, non-corporeal entities, trans-dimensional manifestations, abstract personifications, and green amorphous blobs which occupy the Marvel Universe (and various alternate universes, timelines and altered realities therein). For example, Spider-Man.
+1.Comics: individual print and digital comic issues, collections and graphic novels. For example: Amazing Fantasy #15.
+2.Comic series: sequentially numbered (well, mostly sequentially numbered) groups comics with the same title. For example, Uncanny X-Men.
+3.Comic stories: indivisible, reusable components of comics. For example, the cover from Amazing Fantasy #15 or the origin of Spider-Man story from that comic.
+4.Comic events and crossovers: big, universe-altering storylines. For example, Infinity
+5.Creators: women, men and organizations who create comics. For example, Jack Kirby.
+6.Characters: the women, men, organizations, alien species, deities, animals, non-corporeal entities, trans-dimensional manifestations, abstract personifications, and green amorphous blobs which occupy the Marvel Universe (and various alternate universes, timelines and altered realities therein). For example, Spider-Man.
+
 All the entity types are described in detail here https://developer.marvel.com/documentation/entity_types
 
 ### Project Objective
