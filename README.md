@@ -31,7 +31,7 @@ The character names and comic information are in Json format and can be accessed
 
 The basic steps carried out in this project are outlined as follows:
 
-![Marvel%20datatask%20Story.png](attachment:Marvel%20datatask%20Story.png)
+![My Image](Marvel%20datatask%20Story.png)
 
 ### Using Marvel Wrapper
 
